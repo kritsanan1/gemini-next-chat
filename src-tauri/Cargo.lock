@@ -1056,7 +1056,7 @@ dependencies = [
 
 [[package]]
 name = "gemini-next-chat"
-version = "1.9.1"
+version = "1.10.1"
 dependencies = [
  "serde",
  "serde_json",
@@ -3513,9 +3513,9 @@ dependencies = [
 
 [[package]]
 name = "tauri-plugin-shell"
-version = "2.2.0"
+version = "2.2.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "bb2c50a63e60fb8925956cc5b7569f4b750ac197a4d39f13b8dd46ea8e2bad79"
+checksum = "69d5eb3368b959937ad2aeaf6ef9a8f5d11e01ffe03629d3530707bbcb27ff5d"
 dependencies = [
  "encoding_rs",
  "log",
