@@ -51,7 +51,7 @@
     "i18next-browser-languagedetector": "^7.2.1",
     "i18next-resources-to-backend": "^1.2.1",
     "localforage": "^1.10.0",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "lucide-react": "^0.390.0",
     "mermaid": "^11.4.1",
     "nanoid": "^5.0.7",
